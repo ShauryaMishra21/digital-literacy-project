@@ -1,0 +1,5 @@
+For Task 2, I created and updated my profiles on GitHub, LinkedIn, and Kaggle to build a professional digital presence. Each platform serves a different purpose in my academic and career development.
+
+GitHub is used to showcase coding projects and track my progress in software development. I created a profile README to introduce myself and highlight my learning goals. LinkedIn is a professional networking platform where I added my educational details and built a profile to connect with peers and professionals. Kaggle is a platform for data science and machine learning, where I created a profile to explore datasets and develop my skills in AI/ML.
+
+Over the next four years, I plan to actively use GitHub to upload projects and improve my coding portfolio. On LinkedIn, I will build my network, share achievements, and explore internship opportunities. On Kaggle, I aim to participate in competitions and enhance my data analysis skills. These platforms will help me grow academically and prepare for future career opportunities.
