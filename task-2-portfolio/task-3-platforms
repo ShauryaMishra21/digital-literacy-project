@@ -1,0 +1,5 @@
+For Task 3, I explored both coding practice and collaboration platforms. I used HackerRank as a coding platform, where I completed a beginner-level Java challenge based on input and output. This helped me understand how to take user input and display output correctly, which is a fundamental concept in programming.
+
+For collaboration, I used Google Forms to create a “Digital Literacy Awareness Quiz” consisting of five questions. The quiz included multiple-choice and short-answer questions related to digital literacy, safe internet practices, and cybersecurity awareness. I also viewed the responses in a linked Google Sheet, which helped me understand how data can be collected and analyzed efficiently.
+
+These platforms will be very helpful for my academic growth. HackerRank will allow me to regularly practice coding problems and improve my problem-solving skills, which is essential for programming and placements. Google Forms will help me in creating surveys, collecting data, and working on projects that require collaboration and analysis. Overall, this task improved both my technical and practical skills.
