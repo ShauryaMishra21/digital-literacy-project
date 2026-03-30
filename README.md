@@ -9,7 +9,7 @@
 |---|---|
 | **Name** | Shaurya Mishra |
 | **Registration No.** | 25BCY10145 |
-| **Branch** | B.Tech – Computer Science and Engineering (CSE) |
+| **Branch** | B.Tech – Computer Science and Engineering (Cybersecurity and digital forensics)|
 | **Year** | First Year (2025–2029) |
 | **Course** | CSE0001 – Digital Literacy |
 | **Institution** | VIT Bhopal University |
@@ -53,8 +53,6 @@ digital-literacy-project/
     └── prevention-checklist.md
 ```
 
----
-
 ## 📝 Module Summaries
 
 ### Task 1 – Digital Literacy Awareness Infographic
@@ -64,7 +62,7 @@ Created a one-page infographic using **Canva** covering four topics: what digita
 Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Created a GitHub profile README and filled in the Education section on LinkedIn.
 
 ### Task 3 – Coding and Collaboration Platforms
-Completed the **"Solve Me First"** beginner challenge on HackerRank using Python. Built a **5-question Digital Literacy Awareness Quiz** using Google Forms, linked to a Google Sheet for response tracking.
+Completed the **"Three intergers"** beginner challenge on HackerRank using Python. Built a **5-question Digital Literacy Awareness Quiz** using Google Forms, linked to a Google Sheet for response tracking.
 
 🔗 **Google Form Quiz Link:** [Click here to take the quiz, https://docs.google.com/forms/d/e/1FAIpQLSftwO-YI2ATcGJZsAEjLyENVxTpphwINIvhWZWWJF0U1zA55w/viewform?usp=header]
 
@@ -72,7 +70,7 @@ Completed the **"Solve Me First"** beginner challenge on HackerRank using Python
 Drafted two professional emails — one requesting a deadline extension from a professor, and one expressing interest in a summer internship. Also created a Social Media Do's and Don'ts checklist.
 
 ### Task 5 – Cybercrime Awareness Case Study
-Researched **UPI/Online Payment Fraud** and wrote a detailed case study of a realistic fictional scenario. Created a "Stay Safe Online" prevention checklist with 12 actionable tips including UPI-specific safety measures and reporting channels.
+Researched **UPI/Online Payment Fraud** and wrote a detailed case study of a realistic fictional scenario. Created a "Stay Safe Online" prevention checklist with 11 actionable tips including UPI-specific safety measures and reporting channels.
 
 ---
 
